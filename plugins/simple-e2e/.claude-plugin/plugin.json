@@ -1,0 +1,5 @@
+{
+  "name": "simple-e2e",
+  "description": "PRD 작성(prd-creator), 시스템 설계(system-design), TDD 계획 수립(plan-generator), Red-Green-Refactor 사이클 실행(tdd-cycle/tdd-runner)까지 소프트웨어 개발 전 과정을 자동화하는 E2E 플러그인",
+  "version": "1.0.0"
+}
