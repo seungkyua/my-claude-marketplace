@@ -142,4 +142,4 @@ vite.config.ts.timestamp-*
 .vscode/
 .idea/
 out/
-CLAUDE.md
+/CLAUDE.md
